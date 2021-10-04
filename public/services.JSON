@@ -1,0 +1,90 @@
+[{
+
+    "name": "Sobahan Al Tahsin",
+    "salary": 40000,
+    "course": "Web development",
+    "details": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem",
+    "email": "iamsobahan@gmail.com",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Dev-Py-300x225.png"
+},
+
+{
+
+    "name": "Jubair Talha",
+    "salary": 30000,
+    "course": "backend development",
+    "details": "I must explain to you how all this mistaken idea of denouncing pleasure.",
+    "email": "jubairtalha@gmail.com",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Dev-JS-300x225.png"
+},
+{
+
+    "name": "seam rahman",
+    "salary": 20000,
+    "course": "Frontend development",
+    "details": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth",
+    "email": "seamrahman@gmail.com",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Front-End-Web-Dev-300x225.png"
+},
+
+{
+
+    "name": "Farhan Rahman",
+    "salary": 10000,
+    "course": "Ielts programme",
+    "details": "The European languages are members of the same family. Their separate existence is a myth.",
+    "email": "farhanrahman@gmail.com",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/MOOC-300x225.png"
+},
+
+{
+
+    "name": "Shawon",
+    "salary": 35000,
+    "course": "ui & ux design",
+    "details": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there",
+    "email": "iamshowon@gmail.com",
+    "img":"https://i.ibb.co/25wH8L9/ourcourse1.png"
+},
+
+{
+
+    "name": "junayed ahmed",
+    "salary": 34000,
+    "course": "Online Marketing",
+    "details": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings.",
+    "email": "junayedahmed@gmail.com",
+    "img": "https://i.ibb.co/C2jtRFZ/ourcourse3.png"
+},
+
+{
+
+    "name": "Shahbaj Ahmed",
+    "salary": 39000,
+    "course": "Web design",
+    "details": "One morning, when Gregor Samsa woke from troubled dreams.",
+    "email": "rashedulislam@gmail.com",
+    "img": "https://i.ibb.co/6sSgdXq/ourcourse2.png"
+},
+
+{
+
+    "name": "Rashedul islam",
+    "salary": 39000,
+    "course": "Ethical Hacking",
+    "details": "One morning, when Gregor Samsa woke from troubled dreams.",
+    "email": "rashedulislam@gmail.com",
+    "img": "https://i.ibb.co/4MB5KwL/Ethical-Hacking.jpg"
+},
+
+{
+
+    "name": "Tausif mahmud",
+    "salary": 39000,
+    "course": "Facebook Marketing",
+    "details": "One morning, when Gregor Samsa woke from troubled dreams.",
+    "email": "rashedulislam@gmail.com",
+    "img": "https://bohubrihi.com/wp-content/uploads/2020/12/Facebook-Marketing-300x225.png"
+}
+
+]

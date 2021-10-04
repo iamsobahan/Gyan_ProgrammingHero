@@ -1,0 +1,28 @@
+[
+    
+    {
+    "name": "Career Track: full stack development With Python and Django",
+    "price": 100,
+    "details": "Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design and UI/UX management in order to do their job well.",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Dev-Py-300x225.png"
+    },
+    {
+    "name": "Career Track: Back-End Development With Python and Django",
+    "price": 170,
+    "details": "The backend web developer should understand the goals of the website and come up with effective solutions.",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Back-End-Web-Dev-JS-300x225.png"
+    },
+    
+    {
+    "name": "Career Track: Front-End Web Developmen with react & vue js framework",
+    "price": 120,
+    "details": "Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript.",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/Front-End-Web-Dev-300x225.png"
+    },
+    {
+    "name": "Career Track: Diversity, Tolerance & Pluralism ,Ielts full mock test",
+    "price": 190,
+    "details": "The exam conditions, including the length and format of each part, the types of questions and tasks.",
+    "img": "https://bohubrihi.com/wp-content/uploads/2021/06/MOOC-300x225.png"
+    }
+]
