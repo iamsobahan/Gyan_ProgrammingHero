@@ -18,7 +18,7 @@
 }
 
 .display_grid div {
-    border-right: 2px solid #fbaa33;
+    border-right: 2px solid lightgray;
     margin: 50px 0;
 }
 

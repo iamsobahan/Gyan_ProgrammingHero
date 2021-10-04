@@ -15,11 +15,6 @@ const Service = () => {
       <div className="container">
         <div className="title">
           <h2> Our Courses</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            excepturi non aliquam veritatis labore dolorum laboriosam rem
-            voluptates aliquid saepe?
-          </p>
         </div>
         <Row xs={1} md={2} lg={3} className="g-4">
           {services.map((service) => (

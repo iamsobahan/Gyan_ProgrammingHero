@@ -15,7 +15,7 @@ const Footer = () => {
           <div>
             <h2>Contact us</h2>
             <h4>gyan@itfirm.com</h4>
-            <h4>321 . 125 . 547 . 64 | 365 . 258 . 357 . 32</h4>
+            <h4>321 . 125 . 547 . 64 .456</h4>
             <h4>www.gyanitfirm.com</h4>
           </div>
 

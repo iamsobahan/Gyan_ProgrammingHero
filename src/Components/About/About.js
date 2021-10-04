@@ -9,10 +9,6 @@ const About = () => {
     <div className="about_part">
       <div className="title">
         <h2>About us</h2>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa
-          commodi, fugit suscipit ut
-        </p>
       </div>
       <div className="flex_about">
         <div>
