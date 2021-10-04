@@ -16,7 +16,7 @@ const Teacher = () => {
         <div className="title">
           <h2>Our Teachers</h2>
         </div>
-        <Row xs={1} md={2} lg={4} className="g-4">
+        <Row xs={1} md={2} lg={4} className="g-5">
           {person.map((teacher) => (
             <Teacherdetails
               key={teacher.name}

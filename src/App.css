@@ -4,15 +4,6 @@
   align-items: flex-end;
 }
 
-a {
-  color: #627080!important;
-  font-weight: 500;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-  text-decoration: none!important;
-}
-
-
 .eliment_Top_margin {
   margin-top: 40px;
 }
