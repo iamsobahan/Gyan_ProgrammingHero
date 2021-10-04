@@ -3,6 +3,7 @@ import { Row } from "react-bootstrap";
 import ServiceDetails from "../ServiceDetails/ServiceDetails";
 import "./Service.css";
 const Service = () => {
+  // use state and useeffect for getting data from services.json(internal file)
   const [services, setservice] = useState([]);
   useEffect(() => {
     fetch("./services.json")

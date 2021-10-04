@@ -4,10 +4,13 @@ import { useHistory } from "react-router-dom";
 import "./ServiceDetails.css";
 
 const ServiceDetails = (props) => {
+  // use history for creating route when you click button
   let history = useHistory();
   const clickhander = () => {
     history.push("/home");
   };
+
+  // getting value from Service component via props
   const { name, img, course, details } = props.service;
   return (
     <Col>

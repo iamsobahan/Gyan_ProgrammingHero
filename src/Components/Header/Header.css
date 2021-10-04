@@ -1,3 +1,5 @@
+/* header css  */
+
 nav {
     background: #f1f1f1;
     padding: 20px 0;
@@ -11,6 +13,10 @@ a {
     font-weight: 500;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 20px;
+}
+
+a:hover {
+    color: #627080;
 }
 
 

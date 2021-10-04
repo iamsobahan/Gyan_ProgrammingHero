@@ -16,6 +16,7 @@ const About = () => {
       </div>
       <div className="flex_about">
         <div>
+          {/* about part logo serial by one two three */}
           <img src={logoOne} alt="" />
           <h3>Online Classes</h3>
           <Link to="/service">Learn more</Link>

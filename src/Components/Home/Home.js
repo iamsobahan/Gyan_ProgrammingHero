@@ -6,14 +6,15 @@ import "./Home.css";
 import { useHistory } from "react-router";
 
 const Home = () => {
-  let history = useHistory();
+  //  use state and use effect for getting data from courses.json
   const [course, setcourse] = useState([]);
   useEffect(() => {
     fetch("./courses.json")
       .then((res) => res.json())
       .then((data) => setcourse(data));
   }, []);
-
+  //  click handler for routing
+  let history = useHistory();
   const clickhander = () => {
     history.push("/service");
   };

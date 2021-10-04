@@ -4,6 +4,7 @@ import Teacherdetails from "../Teacherdetails/Teacherdetails";
 import "./Teacher.css";
 
 const Teacher = () => {
+  // use state and useEffect for getting data from teachers.json(internal file)
   const [person, setperson] = useState([]);
   useEffect(() => {
     fetch("./teachers.json")

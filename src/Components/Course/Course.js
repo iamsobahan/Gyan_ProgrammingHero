@@ -2,6 +2,7 @@ import React from "react";
 import { Card, Col } from "react-bootstrap";
 
 const Course = (props) => {
+  // getting data from Home component via props
   const { name, price, details, img } = props.course;
   return (
     <Col>

@@ -4,10 +4,13 @@ import { useHistory } from "react-router";
 import "./Teacherdetails.css";
 
 const Teacherdetails = (props) => {
+  // This is click hander function and using usehistory for creating route path
   const history = useHistory();
   const clickhandler = () => {
     history.push("/home");
   };
+
+  // getting data from Teacher Component via props
   const { name, position, details, img } = props.teacher;
   return (
     <Col>

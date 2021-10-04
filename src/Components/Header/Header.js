@@ -5,6 +5,7 @@ import { NavLink } from "react-router-dom";
 import { Container } from "react-bootstrap";
 
 const Header = () => {
+  // nav active style
   const activeStyle = {
     color: "#fd7e14",
   };

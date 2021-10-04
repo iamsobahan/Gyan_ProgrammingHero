@@ -9,6 +9,7 @@ const Footer = () => {
   return (
     <div className="footer_part">
       <Container>
+        {/*  footer logo */}
         <img src={logo} alt="" />
         <div className="display_grid">
           <div>
@@ -33,11 +34,13 @@ const Footer = () => {
           </div>
         </div>
         <div>
+          {/* font awesome icon */}
           <FontAwesomeIcon className="icons" icon={faVoicemail} />
           <FontAwesomeIcon className="icons" icon={faPhone} />
           <FontAwesomeIcon className="icons" icon={faFax} />
         </div>
       </Container>
+      {/* header part */}
       <header>
         Copyright 2021 - Gyan Technologies Ltd. | info@gyan.com | +8801999498887
         (10AM-5PM) by GYAN
