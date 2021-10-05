@@ -30,6 +30,9 @@ const Header = () => {
             <NavLink activeStyle={activeStyle} to="/contact">
               Contact us
             </NavLink>
+            <NavLink activeStyle={activeStyle} to="*">
+              Course enrolled
+            </NavLink>
           </ul>
         </div>
       </Container>
